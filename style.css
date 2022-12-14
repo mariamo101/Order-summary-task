@@ -1,0 +1,126 @@
+body{
+    background-image: url(./images/pattern-background-desktop.svg);
+    height: 900px;
+    width: 1440px;
+    background-color: #e0e8ff;
+}
+.container{
+    height: 697px;
+    width: 450px;
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: white;
+    margin: 102px 495px 101px 495px;
+}
+.mainimage{
+    height: 220px;
+    width: 450px;
+}
+.container h1{
+    margin: 0;
+    padding: 45px 48px 0 48px;
+    height: 37px;
+    width: 354px;
+    font-family: Red Hat Display;
+    font-size: 28px;
+    line-height: 37px;
+    text-align: center;
+}
+.container p{
+    margin: 0;
+    padding: 17px 48px 0 48px;
+    height: 78px;
+    width: 354px;
+    font-family: Red Hat Display;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+}
+.container2{
+    margin: 20px 48px 0 48px;
+    height: 98px;
+    width: 354px;
+    background-color: #f7f9ff;
+    border-radius: 11px;
+    display: flex;
+    justify-content: space-between;
+}
+.container2 img{
+    height: 48px;
+    width: 48px;
+    margin: auto 0 auto 24px;
+}
+.container2 h5{
+    position: absolute;
+    height: 21px;
+    width: 117.19047546386719px;
+    margin: 25px 0 0 92px;
+    font-family: Red Hat Display;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: left;
+    color:#1F2E55;
+}
+.prise{
+    position: absolute;
+    margin: 52px 0 0 92px;
+    height: 21px;
+    width: 92px;
+    font-family: Red Hat Display;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: left;
+}
+.change{
+    margin-right: 24px;
+    height: 19px;
+    width: 52px;
+    font-family: Red Hat Display;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 19px;
+    text-align: left;
+    color: #382af1;
+    align-self: center;
+}
+.container3{
+    height: 50px;
+    width: 354px;
+    border-radius: 11px;
+    background-color: #382af1;
+    margin: 32px 48px 32px 48px;
+    box-shadow: 0px 20px 20px 0px rgba(56, 42, 225, 0.1903);
+}
+.paymant{
+    font-family: Red Hat Display;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: left;
+    height: 20px;
+    width: 150px;
+    color: white;
+    padding: 15px 102px 15px 102px;
+}
+.cencel{
+    height: 20px;
+    width: 96px;
+    font-family: Red Hat Display;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: left;
+    margin:  0 178px 48px 176px;
+}
+.change, 
+.container3,
+.cencel{
+cursor: pointer;
+}
+.change:hover{
+    color:#766cf1;
+}
+.paymant:hover{
+    color:#766cf1;
+}
+.cencel:hover{
+    color: #766cf1;
+}
