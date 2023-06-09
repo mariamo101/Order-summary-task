@@ -21,7 +21,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 <img width="741" alt="Screenshot 2023-03-21 at 01 39 44" src="https://user-images.githubusercontent.com/117212859/226494576-d9c70dd7-3b51-4c01-9e38-9cb20176a6db.png">
 
 ### Links
-- Live Site URL: (https://spiffy-narwhal-19ecb9.netlify.app/)
+- Live Site URL: (https://order-summary-mm.netlify.app/)
 
 ## My process
 
